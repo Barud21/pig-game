@@ -1,9 +1,12 @@
 {
-  "name": "chess-challenge",
-  "description": "Modified chess",
+  "name": "pig-game",
+  "description": "Dice game",
   "version": "1.0.0",
   "engines": {
     "node": "14.x"
   },
-  "type": "module"
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
