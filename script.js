@@ -1,5 +1,6 @@
 'use strict';
 
+var PORT = process.env.PORT || 5000;
 // Selecting elements
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
