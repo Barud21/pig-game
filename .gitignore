@@ -114,3 +114,16 @@ vscode/
 
 # pdf
 .pdf
+
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
